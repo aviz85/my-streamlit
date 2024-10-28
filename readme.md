@@ -29,7 +29,7 @@ Your personal cheerleader who never runs out of breath!
 1. Clone this bad boy:
 
     ```shell
-    git clone https://github.com/your-username/ai-poetry-buddy.git
+    git clone https://github.com/aviz85/my-streamlit.git
     ```
 
 2. Install the goods:
